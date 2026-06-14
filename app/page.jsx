@@ -1,4 +1,9 @@
 "use client";
+
 export default function Page() {
-  return <h1>✅ Funciona</h1>;
+  return (
+    <div style={{ padding: 40 }}>
+      <h1>✅ WEB FUNCIONANDO</h1>
+    </div>
+  );
 }
